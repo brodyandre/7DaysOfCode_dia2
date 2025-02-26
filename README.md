@@ -1,4 +1,4 @@
-
+### Este é um desafio de 7 dias, proposto pela Alura através da instrutora do Programa Oracle One Rafaella Balerini, que trás nesse primeiro dia, um problema de código para ser resolvido. Segue abaixo a desrição do desafio e uma possível proposta de solução... sendo este o "Dia2"
 # 🚀 Personalização com JavaScript
 
 ## 📝 Descrição do Desafio
